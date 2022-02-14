@@ -1,0 +1,32 @@
+C:\Users\1\Desktop\ArcanoidGame\ArcanoidGame\bin\Debug\ArcanoidGame.exe.config
+C:\Users\1\Desktop\ArcanoidGame\ArcanoidGame\bin\Debug\ArcanoidGame.exe
+C:\Users\1\Desktop\ArcanoidGame\ArcanoidGame\bin\Debug\ArcanoidGame.pdb
+C:\Users\1\Desktop\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.csprojAssemblyReference.cache
+C:\Users\1\Desktop\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.Properties.Resources.resources
+C:\Users\1\Desktop\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.csproj.GenerateResource.cache
+C:\Users\1\Desktop\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.exe
+C:\Users\1\Desktop\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.pdb
+C:\Users\1\Desktop\2 курс\ArcanoidGame\ArcanoidGame\bin\Debug\ArcanoidGame.exe.config
+C:\Users\1\Desktop\2 курс\ArcanoidGame\ArcanoidGame\bin\Debug\ArcanoidGame.exe
+C:\Users\1\Desktop\2 курс\ArcanoidGame\ArcanoidGame\bin\Debug\ArcanoidGame.pdb
+C:\Users\1\Desktop\2 курс\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.csprojAssemblyReference.cache
+C:\Users\1\Desktop\2 курс\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.Form1.resources
+C:\Users\1\Desktop\2 курс\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.Properties.Resources.resources
+C:\Users\1\Desktop\2 курс\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.csproj.GenerateResource.cache
+C:\Users\1\Desktop\2 курс\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\2 курс\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.exe
+C:\Users\1\Desktop\2 курс\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.pdb
+C:\Users\1\Desktop\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.Game.resources
+C:\Users\1\Desktop\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.Menu.resources
+C:\Users\valen\Desktop\2 курс\Прога\ArcanoidGame\ArcanoidGame\bin\Debug\ArcanoidGame.exe.config
+C:\Users\valen\Desktop\2 курс\Прога\ArcanoidGame\ArcanoidGame\bin\Debug\ArcanoidGame.exe
+C:\Users\valen\Desktop\2 курс\Прога\ArcanoidGame\ArcanoidGame\bin\Debug\ArcanoidGame.pdb
+C:\Users\valen\Desktop\2 курс\Прога\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\2 курс\Прога\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.Game.resources
+C:\Users\valen\Desktop\2 курс\Прога\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.Menu.resources
+C:\Users\valen\Desktop\2 курс\Прога\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.Properties.Resources.resources
+C:\Users\valen\Desktop\2 курс\Прога\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\2 курс\Прога\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\2 курс\Прога\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.exe
+C:\Users\valen\Desktop\2 курс\Прога\ArcanoidGame\ArcanoidGame\obj\Debug\ArcanoidGame.pdb
